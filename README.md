@@ -33,5 +33,17 @@ These datasets provided variety and allowed me to practice building dashboards a
 - Data preprocessing in Excel  
 
 ---
+# 📊 Tableau Learning Dashboards
+
+## 1.Sales & Profit Dashboard
+![Alt text for image](https://github.com/kapoor-raghav/Tableau_projects/raw/main/Student%20stress%20Analysis.png)
+
+## 2.Student Metrics Dashboard
+![Alt text for image](https://github.com/kapoor-raghav/Tableau_projects/blob/main/student%20stress%20Analysis(habits).png)
+
+## 3.Digital Transactions Dashboard
+![Alt text for image](https://github.com/kapoor-raghav/Tableau_projects/blob/main/sales%20study.png)
+
+
 
 These dashboards collectively represent my progress in Tableau, showcasing the ability to design user‑friendly, insightful, and domain‑specific visualizations. They serve as portfolio pieces to demonstrate both technical skills and analytical thinking.
